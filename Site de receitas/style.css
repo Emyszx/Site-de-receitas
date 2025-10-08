@@ -1,0 +1,45 @@
+
+body{
+margin: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cabecalho{
+background-color: rgb(255, 192, 4);
+text-align: center;
+padding: 20px;
+color: rgb(117, 16, 232);
+font-size: 20px;
+}
+
+.cabecalho img{
+width: 170px;
+height: auto;
+border-radius: 50%;
+
+}
+
+.cabecalho h1{
+margin: 1px 0 1px 0;
+
+}
+
+.cabecalho p{
+font-size: 30px;
+margin: 0;
+}
+
+nav{
+background-color: chocolate;
+text-align: center;
+padding: 10px;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+nav a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+
+}
